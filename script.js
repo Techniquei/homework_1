@@ -127,9 +127,6 @@ $change_apply_button.addEventListener('click', () => {
             reloadCats()
             alert(json.message)
         })
-
-
-
 })
 
 
